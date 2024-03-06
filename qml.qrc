@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>App/GUI/Menu/Menu.qml</file>
+        <file>App/GUI/Menu/ListBlock.qml</file>
+        <file>App/GUI/TestPage1.qml</file>
+        <file>App/GUI/TestPage2.qml</file>
+    </qresource>
+</RCC>
